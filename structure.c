@@ -20,4 +20,3 @@ int main(void) // Main() Function
 int age(int current)
 { // Subprograms
     return current - BORN;
-}
