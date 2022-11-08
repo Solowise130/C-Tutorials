@@ -9,7 +9,7 @@ int main()
     char myName = 'S';
 
     printf("%d\n", myWholeNum);
-    printf("%f\n", myDecNum);
+    printf("%f\n"", myDecNum);
     printf("%c\n", myName);
 
     return 0;
